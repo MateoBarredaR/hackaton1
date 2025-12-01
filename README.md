@@ -103,3 +103,20 @@ To reproduce the environment, install micromamba or conda and run:
 ```bash
 micromamba create -f environment.yml
 micromamba activate hackathon-ai
+
+## 📥 Downloading the Dataset
+
+The datasets used in this project are publicly available from Inside Airbnb.
+
+🔗 **Download link:**  
+https://insideairbnb.com/get-the-data/
+
+Please scroll to the section **“Valencia”** and download the following files:
+
+- `listings.csv`
+- `calendar.csv`
+- `reviews.csv`
+
+### 📂 Where to place the files
+
+After downloading the data, place all CSV files inside the following folder of the repository:
