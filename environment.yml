@@ -1,0 +1,19 @@
+name: hackathon-ai
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - plotly
+  - jupyter
+  - pytest>=8
+  - pytest-cov
+  - coverage
+  - pip
+  - pip:
+      - packaging
+      - pluggy
+      - pygments
