@@ -1,3 +1,6 @@
+# hackaton1
+The repository for the first part of the hackaton
+
 # 🏡 Airbnb Availability Predictor
 
 This project aims to predict whether an Airbnb listing will be **available on a specific date**, using machine learning techniques and three different datasets from Valencia.  
